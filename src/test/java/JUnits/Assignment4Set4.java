@@ -33,7 +33,6 @@ public class Assignment4Set4 extends Tests{
             return true;
         });
 
-
         //4.Click on the Amazon logo at the bottom of the page (in the footer) using JavascriptExecutor
          JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
          WebElement amazonLogo = driver.findElement(By.xpath("//a[@href='/?ref_=footer_logo']"));
