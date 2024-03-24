@@ -1,0 +1,16 @@
+{
+  "searchQuery": "Selenium WebDriver",
+  "SoftAssertionsTestData": {
+    "Username": "student",
+    "Password": "Password123"
+  },
+  "expandTesting": {
+    "fname": "John",
+    "lname": "Doe",
+    "email": "john.doaaaaa@example.com",
+    "telphone": "1234567890",
+    "password": "secretpassword",
+    "confirmpass": "secretpassword",
+    "ExpectedSuccessMessage": "Your Account Has Been Created!"
+  }
+}
